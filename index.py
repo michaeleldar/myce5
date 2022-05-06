@@ -1,1 +1,1 @@
-import sys/inde
+exec(open("syst/index.py").read())
