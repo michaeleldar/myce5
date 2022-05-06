@@ -1,1 +1,1 @@
-print("test")
+exec(open("cash.py").read())
